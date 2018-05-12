@@ -1,0 +1,29 @@
+_repo: Songs-of-a-Sourdough_25546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Service, Robert W. (Robert William)
+    alias: Service, Robert William
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '117'
+    url: http://www.gutenberg.org/2009/agents/117
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- Poetry'
+title: Songs of a Sourdough
+url: http://www.gutenberg.org/ebooks/25546
