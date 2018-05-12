@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/117
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25546#Songs-of-a-Sourdough
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2008-05-20'
 gutenberg_type: Text
